@@ -1,0 +1,11 @@
+﻿project
+leyou
+ -ly-gateway(网关)
+ -ly-common(公共工具)
+ -ly-item(项目)
+  -ly-item-interface(项目对应的实体类)
+  -ly-item-service(项目业务逻辑)
+axios.get("/url",{params:{}})
+.then(function(){
+})
+.catch(function(){})
